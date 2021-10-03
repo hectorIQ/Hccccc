@@ -1,5 +1,5 @@
-#My Facebook : Fb.com/HectorIQ
-#My Telegram : @Hccccc
+# My Facebook : Fb.com/HectorIQ
+# My Telegram : @HectorIQ
 # apt update & upgrade
 # apt install git -y
 # apt install python -y
